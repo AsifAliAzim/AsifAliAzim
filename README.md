@@ -1,7 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/AsifAliAzim/AsifAliAzim/main/Group%202432.png)](https://raw.githubusercontent.com/AsifAliAzim/AsifAliAzim/main/Group%202432.png)
 
 <h3 align="center">A proficient app developer hailing from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.animationliberty.com/assets/images/sm-video.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/AsifAliAzim/AsifAliAzim/4ab349d1127cd2ca76a1118ef8e52dd0dc0f188c/hello.svg">
 
 - 🔭 I’m currently working on **PreventScripts**
 
