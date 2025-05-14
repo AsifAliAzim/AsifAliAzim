@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asif-ali-azim-3b918a189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/asif-ali-azim-3b918a189/](https://www.linkedin.com/in/asif-ali-%D8%B9%D8%B8%D9%8A%D9%85-3b918a189/)" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asif-ali-azim-3b918a189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asif-ali-%D8%B9%D8%B8%D9%8A%D9%85-3b918a189/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22966442/asif-ali-azim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22966442/asif-ali-azim" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@aaakhan-rf5wk?si=f_hzkw-_k6i10xfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@aaakhan-rf5wk?si=f_hzkw-_k6i10xfb" height="30" width="40" /></a>
 </p>
