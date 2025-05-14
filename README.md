@@ -19,9 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asif-ali-azim-3b918a189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asif-ali-azim-3b918a189?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22966442/asif-ali-azim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22966442/asif-ali-azim" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@aaakhan-rf5wk?si=f_hzkw-_k6i10xfb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@aaakhan-rf5wk?si=f_hzkw-_k6i10xfb" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/asif-ali-azim-3b918a189/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asif Ali Azim LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22966442/asif-ali-azim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Asif Ali Azim Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/@aaakhan-rf5wk" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Asif Ali Azim YouTube" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
